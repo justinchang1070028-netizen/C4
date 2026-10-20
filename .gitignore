@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Food agent: 機密與本機資料(DATA_DIR 建議放在 repo 外面,這裡是第二道保險)
+.env
+data/
+photos/
+records/
+*.xlsx
